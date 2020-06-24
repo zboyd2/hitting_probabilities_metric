@@ -1,0 +1,7 @@
+Code accompanying the paper "A metric on directed graphs and Markov chains based on hitting probabilities" by Boyd et al.
+
+To compute the metric, check get_dhp.m.
+
+To replicate examples from the paper, check the files fig_*.
+
+This code should be useful any other users, but if you run into issues, feel free to email zachboyd@email.unc.edu with issues, and I will try to help.
