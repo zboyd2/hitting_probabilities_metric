@@ -1,9 +1,9 @@
-Code accompanying the paper "A metric on directed graphs and Markov chains based on hitting probabilities" by Boyd et al.
+Code accompanying this paper: Zachary M. Boyd, Nicolas Fraiman, Jeremy L. Marzuola, Peter J. Mucha, Braxton Osting, and Jonathan Weare, A metric on directed graphs based on hitting probabilities, SIAM J. Math. Data Sci., 3(2), pp. 467–493. by Boyd et al.
 
 To compute the metric, check get_dhp.m.
 
 To replicate examples from the paper, check the files fig_*.
 
-This code should be useful any other users, but if you run into issues, feel free to email zachboyd@email.unc.edu with issues, and I will try to help.
+This code should be useful any other users, but if you run into issues, feel free to email zachboyd@byu.edu with issues, and I will try to help.
 
 Added code by Or Feldman at Technion
